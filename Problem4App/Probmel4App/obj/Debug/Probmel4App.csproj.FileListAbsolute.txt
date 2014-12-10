@@ -1,0 +1,6 @@
+D:\Ha-Mim\Probmel4App\Probmel4App\bin\Debug\Probmel4App.exe.config
+D:\Ha-Mim\Probmel4App\Probmel4App\obj\Debug\Probmel4App.csprojResolveAssemblyReference.cache
+D:\Ha-Mim\Probmel4App\Probmel4App\bin\Debug\Probmel4App.exe
+D:\Ha-Mim\Probmel4App\Probmel4App\bin\Debug\Probmel4App.pdb
+D:\Ha-Mim\Probmel4App\Probmel4App\obj\Debug\Probmel4App.exe
+D:\Ha-Mim\Probmel4App\Probmel4App\obj\Debug\Probmel4App.pdb

@@ -1,0 +1,5 @@
+D:\Ha-Mim\Problem8App\Problem8App\bin\Debug\Problem8App.exe.config
+D:\Ha-Mim\Problem8App\Problem8App\bin\Debug\Problem8App.exe
+D:\Ha-Mim\Problem8App\Problem8App\bin\Debug\Problem8App.pdb
+D:\Ha-Mim\Problem8App\Problem8App\obj\Debug\Problem8App.exe
+D:\Ha-Mim\Problem8App\Problem8App\obj\Debug\Problem8App.pdb
